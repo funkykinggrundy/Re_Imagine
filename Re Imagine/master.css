@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+.row-one:hover {
+flex: 50%;
+}
+
+.row-one{
+background-color: #3A7ABA;
+/* height: 50vh; */
+rounded
+text-center
+}
+
+.row-two:hover {
+flex: 50%;
+}
+.row-two{
+background-color:#83B0DC;
+
+}
+
+.row-three:hover {
+flex: 50%;
+}
+.row-three{
+background-color: #3A7ABA;
+
+}
+
+
+.Head {
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+
+}
+
+.my-padding{
+  padding-top: 20px;
+}
